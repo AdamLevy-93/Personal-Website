@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
+
+header h1, header h2 {
+    margin: 0.5em 0;
+}
+
+header p {
+    margin: 0.2em 0;
+}
+
+a {
+    color: #3498db;
+}
+
+section {
+    padding: 2em;
+    margin: 1em 0;
+}
+
+section#profile {
+    background: #f4f4f4;
+}
+
+section#employment .job {
+    margin-bottom: 1.5em;
+}
+
+section#employment h3, section#employment h4 {
+    margin: 0.3em 0;
+}
+
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
